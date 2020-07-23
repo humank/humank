@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Kim Kao</h1>
+<h1 align="center">Hi there 👋, I'm Kim Kao</h1>
 <h3 align="center">A passionate baseball/softball player, deep passion in evangelism implementing Domain-Driven Design on Cloud (AWS).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humank" alt="humank" /> </p>
 
