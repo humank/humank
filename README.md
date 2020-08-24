@@ -4,4 +4,4 @@
 
 - 📫 How to reach me **via Github page**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=humank)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=humank&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
