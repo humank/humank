@@ -43,25 +43,22 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
 > *"The architect's job is to ride the elevator between the penthouse and the engine room,*
 > *connecting business strategy with technical execution."* — Gregor Hohpe
 
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│  🏢 PENTHOUSE — C-Suite / Business Strategy                    │
-│  Stakeholder alignment · Business case · ROI · Compliance      │
-├─────────────────────────────────────────────────────────────────┤
-│  📊 UPPER FLOORS — Enterprise Architecture                     │
-│  Rozanski & Woods Viewpoints · Perspectives · ADRs             │
-│  Industries: Financial Services · Retail · Public Sector       │
-├─────────────────────────────────────────────────────────────────┤
-│  🎯 MIDDLE FLOORS — Solution Design                            │
-│  DDD · Event Storming · Bounded Contexts · Context Mapping     │
-│  CQRS · Event Sourcing · Saga · Anti-Corruption Layer          │
-├─────────────────────────────────────────────────────────────────┤
-│  ⚙️ ENGINE ROOM — Code & Infrastructure                        │
-│  AWS CDK · Serverless · EKS · Aurora Global DB                 │
-│  Multi-Region Active-Active · Chaos Engineering · CI/CD        │
-└─────────────────────────────────────────────────────────────────┘
-          ↕ I ride this elevator every day ↕
-```
+> 🏢 **PENTHOUSE — C-Suite / Business Strategy**
+> Stakeholder alignment · Business case · ROI · Compliance
+>
+> 📊 **UPPER FLOORS — Enterprise Architecture**
+> Rozanski & Woods Viewpoints · Perspectives · ADRs
+> Industries: Financial Services · Retail · Public Sector
+>
+> 🎯 **MIDDLE FLOORS — Solution Design**
+> DDD · Event Storming · Bounded Contexts · Context Mapping
+> CQRS · Event Sourcing · Saga · Anti-Corruption Layer
+>
+> ⚙️ **ENGINE ROOM — Code & Infrastructure**
+> AWS CDK · Serverless · EKS · Aurora Global DB
+> Multi-Region Active-Active · Chaos Engineering · CI/CD
+>
+> *↕ I ride this elevator every day ↕*
 
 <table>
   <tr>
