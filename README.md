@@ -40,25 +40,28 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
 <!-- ===== ARCHITECT ELEVATOR ===== -->
 ## 🛗 The Architect Elevator
 
-> *"The architect's job is to ride the elevator between the penthouse and the engine room,*
-> *connecting business strategy with technical execution."* — Gregor Hohpe
+> I don't just reference the Architect Elevator — I live it.
+> Every day I shift between business strategy and hands-on implementation,
+> translating customer needs into architecture decisions that actually ship.
 
-> 🏢 **PENTHOUSE — C-Suite / Business Strategy**
-> Stakeholder alignment · Business case · ROI · Compliance
+> 🏢 **PENTHOUSE — Business & Stakeholder Alignment**
+> Customer discovery · Business case · ROI · Compliance · Executive communication
 >
 > 📊 **UPPER FLOORS — Enterprise Architecture**
-> Rozanski & Woods Viewpoints · Perspectives · ADRs
+> Rozanski & Woods Viewpoints & Perspectives · ADRs · Technology strategy
 > Industries: Financial Services · Retail · Public Sector
 >
-> 🎯 **MIDDLE FLOORS — Solution Design**
-> DDD · Event Storming · Bounded Contexts · Context Mapping
+> 🎯 **MIDDLE FLOORS — Solution Architecture**
+> DDD · Event Storming · Domain Storytelling · Context Mapping
 > CQRS · Event Sourcing · Saga · Anti-Corruption Layer
 >
-> ⚙️ **ENGINE ROOM — Code & Infrastructure**
-> AWS CDK · Serverless · EKS · Aurora Global DB
-> Multi-Region Active-Active · Chaos Engineering · CI/CD
+> 🔧 **LOWER FLOORS — Specialist Architecture**
+> Software · Networking · Security · RDBMS · NoSQL · Analytics · GenAI
+> Cross-domain integration to ensure end-to-end delivery
 >
-> *↕ I ride this elevator every day ↕*
+> ⚙️ **ENGINE ROOM — Build & Ship**
+> AWS CDK · Serverless · EKS/ECS · Multi-Region Resilience
+> Bedrock · Agentic AI · CI/CD
 
 <table>
   <tr>
@@ -72,7 +75,7 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
     </td>
     <td width="33%" align="center">
       <h4>🔬 Hands-On Builder</h4>
-      <p>13 Bounded Contexts · 19 CDK Stacks<br/>99.97% Availability · 28s RTO<br/>Not just slides — real systems</p>
+      <p>60+ repos · 700+ community ⭐<br/>DDD → Serverless → Multi-Region DR<br/>Legacy Modernization → Agentic AI<br/>From COBOL migration to 9-agent orchestration</p>
     </td>
   </tr>
 </table>
@@ -82,22 +85,34 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧩 DDD Practices</h3>
-      <p align="center">
-        <code>Event Storming</code> · <code>Bounded Context</code><br/>
-        <code>Aggregate Design</code> · <code>Context Mapping</code><br/>
-        <code>CQRS</code> · <code>Event Sourcing</code><br/>
-        <code>Saga Pattern</code> · <code>Anti-Corruption Layer</code>
+    <td width="33%" align="center">
+      <h3>🧭 Facilitation & Discovery</h3>
+      <p>
+        <code>Event Storming</code><br/>
+        <code>Domain Storytelling</code><br/>
+        <code>User Story Mapping</code><br/>
+        <code>Impact Mapping</code><br/>
+        <code>Wardley Mapping</code>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">☁️ Cloud Architecture</h3>
-      <p align="center">
-        <code>AWS CDK</code> · <code>Serverless</code><br/>
-        <code>Lambda</code> · <code>DynamoDB</code><br/>
-        <code>EventBridge</code> · <code>Step Functions</code><br/>
-        <code>API Gateway</code> · <code>ECS / Fargate</code>
+    <td width="33%" align="center">
+      <h3>🧩 DDD Strategic & Tactical</h3>
+      <p>
+        <code>Bounded Context</code><br/>
+        <code>Context Mapping</code><br/>
+        <code>Aggregate Design</code><br/>
+        <code>CQRS</code> · <code>Event Sourcing</code><br/>
+        <code>Saga</code> · <code>Anti-Corruption Layer</code>
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <h3>☁️ Cloud & AI Architecture</h3>
+      <p>
+        <code>Serverless</code> · <code>EKS / ECS</code><br/>
+        <code>Aurora Global DB</code> · <code>DynamoDB</code><br/>
+        <code>Multi-Region Resilience</code><br/>
+        <code>Bedrock</code> · <code>AgentCore</code><br/>
+        <code>Strands SDK</code> · <code>Agentic AI</code>
       </p>
     </td>
   </tr>
