@@ -204,19 +204,19 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
 
 <!-- Starred Topics: shows the breadth of technologies you engage with -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/humank/humank/main/metrics/topics.svg" alt="Topics / Skill Icons" width="100%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/topics.svg" alt="Topics / Skill Icons" width="100%" />
 </p>
 
 <!-- Overview + Languages side by side -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/humank/humank/main/metrics/overview.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/humank/humank/main/metrics/languages.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/overview.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/languages.svg" width="49%" />
 </p>
 
 <!-- Habits + Isometric Calendar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/humank/humank/main/metrics/habits.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/humank/humank/main/metrics/isocalendar.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/habits.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/isocalendar.svg" width="49%" />
 </p>
 
 <!-- ===== GITHUB STATS (SUPPORTING EVIDENCE) ===== -->
