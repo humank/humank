@@ -221,8 +221,8 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
 
 <p align="center">
   <a href="https://github.com/humank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&ring_color=7aa2f7&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humank&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-five-rouge-74.vercel.app/api?username=humank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&ring_color=7aa2f7&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-five-rouge-74.vercel.app/api/top-langs/?username=humank&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
   </a>
 </p>
 
