@@ -10,10 +10,18 @@
   </a>
 </p>
 
-<!-- ===== WEBSITE CTA ===== -->
+<p align="center">
+  <strong>Architecture is a continuous, socio-technical activity — not a one-off decision.</strong><br/>
+  SA Manager @ AWS · DDD &amp; Event Storming facilitator · writing at
+  <a href="https://kimkao.dev/">kimkao.dev</a>
+</p>
+
 <p align="center">
   <a href="https://kimkao.dev/">
     <img src="https://img.shields.io/badge/🌐_kimkao.dev-Continuous_Architecture-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="kimkao.dev" />
+  </a>
+  <a href="https://kimkao.dev/consulting">
+    <img src="https://img.shields.io/badge/Work_with_me-Workshops_&_Advisory-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Consulting" />
   </a>
 </p>
 
@@ -25,25 +33,21 @@ name: Kim Kao (humank)
 role: Manager, Solutions Architecture @ AWS
 website: https://kimkao.dev
 identity:
-  - Leading SA teams to help customers architect on AWS
-  - Hands-on DDD Practitioner & Workshop Facilitator
-  - Architect Elevator rider — from Penthouse to Engine Room
-  - Writing on Continuous Architecture at kimkao.dev
+  - Lead SA teams helping customers architect on AWS
+  - Hands-on DDD practitioner & workshop facilitator
+  - Architect Elevator — C-suite strategy to engine-room delivery
+  - Write about Continuous Architecture at kimkao.dev
 industries: [ Financial Services, Retail, Public Sector ]
 focus:
   - Continuous Architecture (socio-technical)
   - Domain-Driven Design on Cloud (AWS)
   - Event Storming & Event-Driven Architecture
-  - CQRS / Event Sourcing Patterns
-  - Serverless & Cloud-Native Solutions
-  - Multi-Region Resilience & Disaster Recovery
+  - Serverless, Cloud-Native & Multi-Region resilience
   - Rozanski & Woods — Viewpoints & Perspectives
 community:
-  - Contributor to aws-samples (316+ ⭐)
-  - DDD practitioners workshop adopted globally
-passion:
-  - Bridging business strategy with technical execution
-  - Baseball & Softball ⚾
+  - aws-samples contributor (cloud-native microservices + EventStorming)
+  - DDD Practitioners workshop adopted globally
+  - DDD Taiwan · AWS Community Day · re:Invent speaker
 motto: "The best architecture decisions are business decisions."
 ```
 
@@ -54,38 +58,34 @@ motto: "The best architecture decisions are business decisions."
 > Every day I shift between business strategy and hands-on implementation,
 > translating customer needs into architecture decisions that actually ship.
 
-> 🏢 **PENTHOUSE — Business & Stakeholder Alignment**
+> 🏢 **PENTHOUSE** — Business & Stakeholder Alignment  
 > Customer discovery · Business case · ROI · Compliance · Executive communication
 >
-> 📊 **UPPER FLOORS — Enterprise Architecture**
+> 📊 **UPPER FLOORS** — Enterprise Architecture  
 > Rozanski & Woods Viewpoints & Perspectives · ADRs · Technology strategy
-> Industries: Financial Services · Retail · Public Sector
 >
-> 🎯 **MIDDLE FLOORS — Solution Architecture**
-> DDD · Event Storming · Domain Storytelling · Context Mapping
-> CQRS · Event Sourcing · Saga · Anti-Corruption Layer
+> 🎯 **MIDDLE FLOORS** — Solution Architecture  
+> DDD · Event Storming · Domain Storytelling · Context Mapping · CQRS · Saga
 >
-> 🔧 **LOWER FLOORS — Specialist Architecture**
-> Software · Networking · Security · RDBMS · NoSQL · Analytics · GenAI
-> Cross-domain integration to ensure end-to-end delivery
+> 🔧 **LOWER FLOORS** — Specialist Architecture  
+> Software · Networking · Security · Data · Analytics · GenAI
 >
-> ⚙️ **ENGINE ROOM — Build & Ship**
-> AWS CDK · Serverless · EKS/ECS · Multi-Region Resilience
-> Bedrock · Agentic AI · CI/CD
+> ⚙️ **ENGINE ROOM** — Build & Ship  
+> AWS CDK · Serverless · EKS/ECS · Multi-Region · Bedrock · CI/CD
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h4>🏛️ Rozanski & Woods</h4>
-      <p>7 Viewpoints + 8 Perspectives<br/>Systematic architecture methodology<br/>applied in production systems</p>
+      <h4>🏛️ Methodology</h4>
+      <p>Rozanski &amp; Woods<br/>7 Viewpoints + 8 Perspectives<br/>ADRs that survive contact with production</p>
     </td>
     <td width="33%" align="center">
-      <h4>🤝 Stakeholder Whisperer</h4>
-      <p>Financial Services · Retail · Public Sector<br/>Translating business needs into<br/>architecture decisions across industries</p>
+      <h4>🤝 Facilitation</h4>
+      <p>Event Storming · Domain Storytelling<br/>Financial Services · Retail · Public Sector<br/>Surface the real problem before the stack</p>
     </td>
     <td width="33%" align="center">
-      <h4>🔬 Hands-On Builder</h4>
-      <p>60+ repos · 700+ community ⭐<br/>DDD → Serverless → Multi-Region DR<br/>Legacy Modernization → Agentic AI<br/>From COBOL migration to 9-agent orchestration</p>
+      <h4>🔬 Delivery</h4>
+      <p>60+ repos · community samples<br/>DDD → Serverless → Multi-Region DR<br/>Legacy modernization → Agentic AI</p>
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@ motto: "The best architecture decisions are business decisions."
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🧭 Facilitation & Discovery</h3>
+      <h3>🧭 Discovery</h3>
       <p>
         <code>Event Storming</code><br/>
         <code>Domain Storytelling</code><br/>
@@ -106,7 +106,7 @@ motto: "The best architecture decisions are business decisions."
       </p>
     </td>
     <td width="33%" align="center">
-      <h3>🧩 DDD Strategic & Tactical</h3>
+      <h3>🧩 Strategic &amp; Tactical</h3>
       <p>
         <code>Bounded Context</code><br/>
         <code>Context Mapping</code><br/>
@@ -116,13 +116,13 @@ motto: "The best architecture decisions are business decisions."
       </p>
     </td>
     <td width="33%" align="center">
-      <h3>☁️ Cloud & AI Architecture</h3>
+      <h3>☁️ Cloud &amp; AI</h3>
       <p>
         <code>Serverless</code> · <code>EKS / ECS</code><br/>
         <code>Aurora Global DB</code> · <code>DynamoDB</code><br/>
         <code>Multi-Region Resilience</code><br/>
         <code>Bedrock</code> · <code>AgentCore</code><br/>
-        <code>Strands SDK</code> · <code>Agentic AI</code>
+        <code>Agentic AI</code>
       </p>
     </td>
   </tr>
@@ -131,67 +131,65 @@ motto: "The best architecture decisions are business decisions."
 <!-- ===== CONTINUOUS ARCHITECTURE / WEBSITE ===== -->
 ## ✍️ Continuous Architecture — [kimkao.dev](https://kimkao.dev)
 
-> Architecture is a *continuous, socio-technical* activity — not a one-off decision.
-
-Essays, talks, and workshops on Domain-Driven Design, Event Storming, and riding the Architect Elevator from the C-suite to the engine room.
+Essays, talks, and workshops on making architecture a continuous practice — from framing strategy to the design that ships.
 
 <table>
   <tr>
     <td width="50%">
-      <h3>📝 Latest Writing</h3>
+      <h3>📝 Latest writing</h3>
       <p>
         <a href="https://kimkao.dev/writing/compared-to-what"><strong>Compared to What?</strong></a><br/>
-        A retail client, a Kubernetes prescription, and a 20-year-old system — the real work is understanding the problem they had already skipped past.
+        A retail client arrived certain Kubernetes would fix everything. The real work was the problem they had already skipped past.
       </p>
       <p>
         <a href="https://kimkao.dev/writing/welcome-continuous-architecture"><strong>Architecture Is a Verb</strong></a><br/>
-        Why architecture is a continuous, socio-technical activity — and what the blog is about.
+        Why architecture is continuous and socio-technical — and what the blog is for.
       </p>
-      <p><a href="https://kimkao.dev/writing">View all writing →</a></p>
+      <p><a href="https://kimkao.dev/writing">All writing →</a></p>
     </td>
     <td width="50%">
-      <h3>🎤 Speaking & Interviews</h3>
+      <h3>🎤 Speaking &amp; interviews</h3>
       <p>
         <a href="https://youtu.be/td_vdQgeVwY">They Knew the Answer Before They Understood the Problem</a> · VirtualDDD<br/>
         <a href="https://speakerdeck.com/humank/enhancing-application-modernization-experience-with-aidlc">Enhancing Application Modernization with AIDLC</a> · AWS Community Day Taiwan<br/>
         <a href="https://www.youtube.com/watch?v=pfAlmkzyaJQ">Implementing Distributed Design Patterns on AWS</a> · re:Invent BOA309<br/>
         <a href="https://speakerdeck.com/humank/continuous-architecture-embracing-multiple-viewpoints-for-sustainable-solutions">Continuous Architecture: Multiple Viewpoints</a> · DDD Taiwan
       </p>
-      <p><a href="https://kimkao.dev/speaking">All talks →</a></p>
+      <p><a href="https://kimkao.dev/speaking">All talks →</a> · <a href="https://speakerdeck.com/humank">Speaker Deck</a></p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://kimkao.dev/consulting"><img src="https://img.shields.io/badge/Work_with_me-DDD_·_Event_Storming_·_Continuous_Architecture-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Consulting" /></a>
-</p>
+<!-- ===== BOOKS & CREDENTIALS ===== -->
+## 📚 Books &amp; community
+
+| Role | Work |
+|------|------|
+| **Contributor** | *Domain-Driven Design: The First 15 Years* (zh-Hant) · DDD Taiwan |
+| **Technical reviewer** | *Domain Storytelling* — Hofer &amp; Schwentner |
+| **Foreword** | *Building Multi-Tenant SaaS Architectures on AWS* |
+| **Foreword** | *SRE &amp; Internal Developer Platform Guide* |
 
 <!-- ===== FEATURED PROJECTS ===== -->
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
-<!-- AWS Community Contribution - highlight -->
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/aws-samples/designing-cloud-native-microservices-on-aws">☁️ Designing Cloud Native Microservices on AWS</a> ⭐ 316 · <code>aws-samples</code></h3>
-      <p>Official AWS sample contributed as Solutions Architect — a fluent approach to designing cloud-native microservices via EventStorming workshop. Covers DDD, Event Storming, Specification by Example, with hands-on AWS Serverless deployment. Widely adopted by the global DDD & AWS community.</p>
+      <h3><a href="https://github.com/aws-samples/designing-cloud-native-microservices-on-aws">☁️ Designing Cloud Native Microservices on AWS</a> · <code>aws-samples</code></h3>
+      <p>Official AWS sample — design cloud-native microservices via EventStorming workshop. DDD, Specification by Example, hands-on Serverless deployment. Adopted by the global DDD &amp; AWS community.</p>
       <p>
-        <code>DDD</code> <code>Event Storming</code> <code>Lambda</code> <code>DynamoDB</code> <code>Fargate</code> <code>ECS</code> <code>EventBridge</code> <code>Serverless</code> <code>80 Forks</code>
+        <img src="https://img.shields.io/github/stars/aws-samples/designing-cloud-native-microservices-on-aws?style=flat-square&labelColor=1a1b27&color=7aa2f7" alt="stars" />
+        <code>DDD</code> <code>Event Storming</code> <code>Lambda</code> <code>DynamoDB</code> <code>Fargate</code> <code>EventBridge</code>
       </p>
     </td>
   </tr>
-</table>
-
-<!-- Project Noah - flagship AI project -->
-<table>
   <tr>
     <td>
-      <h3>🚢 Project Noah — Agent Orchestration Platform for Legacy Modernization <code>private</code></h3>
-      <p>Enterprise-grade platform that automates COBOL-to-Java/DDD transformation using generative AI. Orchestrates 9 specialized AI agents across 3 squads (Mainframe Modernization, Infrastructure, Resilience & Ops) through an 8-phase pipeline — from Domain Storytelling extraction to Canary deployment.</p>
+      <h3>🚢 Project Noah — Agent orchestration for legacy modernization <code>private</code></h3>
+      <p>Enterprise platform that automates COBOL → Java/DDD with generative AI. Nine specialized agents across three squads, eight-phase pipeline from Domain Storytelling extraction to canary deploy. Architecture story told through talks &amp; workshops; implementation stays private.</p>
       <p>
-        <code>Bedrock Claude Opus 4.6</code> <code>AgentCore</code> <code>Tree-sitter AST</code> <code>Contract-First</code><br/>
-        <code>9 AI Agents</code> <code>4-Zone Parallel Build</code> <code>Parity Testing</code> <code>QuickSight Analytics</code><br/>
-        <code>ECS Fargate</code> <code>CDK</code> <code>DynamoDB Streams</code> <code>Kinesis Firehose</code> <code>Knowledge Base</code>
+        <code>Bedrock</code> <code>AgentCore</code> <code>Tree-sitter AST</code> <code>9 agents</code> <code>CDK</code> <code>ECS Fargate</code>
       </p>
     </td>
   </tr>
@@ -201,148 +199,89 @@ Essays, talks, and workshops on Domain-Driven Design, Event Storming, and riding
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/humank/genai-demo">🏢 Enterprise E-Commerce Platform</a></h3>
-      <p>A living example of the Architect Elevator in action — Rozanski & Woods methodology (7 Viewpoints + 8 Perspectives), DDD with 13 bounded contexts, and Active-Active multi-region on AWS. Not a demo — a blueprint.</p>
+      <p>Architect Elevator in code — Rozanski &amp; Woods, 13 bounded contexts, Active-Active multi-region on AWS. Blueprint, not a toy demo.</p>
       <p>
-        <code>99.97% Availability</code> <code>28s RTO</code> <code>0.8s RPO</code><br/>
-        <code>19 CDK Stacks</code> <code>103 Infra Tests</code> <code>28+ BDD Scenarios</code><br/>
-        <code>Java 21</code> <code>Spring Boot</code> <code>Aurora Global DB</code> <code>EKS</code>
+        <code>99.97% avail.</code> <code>28s RTO</code> <code>0.8s RPO</code><br/>
+        <code>Java 21</code> <code>Spring Boot</code> <code>Aurora Global</code> <code>EKS</code> <code>CDK</code>
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/humank/ddd-practitioners-ref">📘 DDD Practitioners Reference</a> ⭐ 320</h3>
-      <p>Comprehensive Event Storming workshop covering DDD strategic & tactical design, Wardley Maps, Impact Mapping, Bounded Context Canvas, and AWS Serverless deployment.</p>
+      <h3><a href="https://github.com/humank/ddd-practitioners-ref">📘 DDD Practitioners Reference</a></h3>
+      <p>Event Storming workshop: strategic &amp; tactical DDD, Wardley Maps, Impact Mapping, Bounded Context Canvas, AWS Serverless lab.</p>
       <p>
-        <code>Event Storming</code> <code>Specification by Example</code><br/>
-        <code>Lambda</code> <code>DynamoDB</code> <code>Fargate</code> <code>CloudWatch</code><br/>
-        <code>86 Forks</code> — Community-adopted workshop
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/humank/coffeeshop-ddd-quarkus">☕ Coffeeshop DDD Quarkus</a></h3>
-      <p>DDD tactical patterns with Quarkus, focusing on cross-Bounded Context communication via external Aggregate Roots.</p>
-      <p>
-        <code>Quarkus</code> <code>DDD Tactical</code> <code>Aggregate Root</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/humank/build-dr-with-managed-services">🛡️ DR with Managed Services</a></h3>
-      <p>Multi-region DR architecture using API Gateway private integration, VPCLink, and Route 53 for resilient backend protection.</p>
-      <p>
-        <code>Route 53</code> <code>CloudFront</code> <code>API Gateway</code> <code>ALB</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/humank/fargate-java-sample">🐳 Fargate Java Sample</a> ⭐ 9</h3>
-      <p>Step-by-step guide for running Java Spring applications on AWS Fargate with ECS and ECR.</p>
-      <p>
-        <code>Fargate</code> <code>ECS</code> <code>Spring Boot</code> <code>Docker</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/humank/aggregate-canvas">🎨 Aggregate Canvas</a></h3>
-      <p>A design tool mapping EventStorming Level 3 artifacts into DDD tactical design objects.</p>
-      <p>
-        <code>EventStorming</code> <code>Software Design</code> <code>DDD Tactical</code>
+        <img src="https://img.shields.io/github/stars/humank/ddd-practitioners-ref?style=flat-square&labelColor=1a1b27&color=7aa2f7" alt="stars" />
+        <code>Event Storming</code> <code>Lambda</code> <code>DynamoDB</code> <code>Fargate</code>
       </p>
     </td>
   </tr>
 </table>
 
+<details>
+  <summary><strong>More open-source work</strong></summary>
+  <br/>
+  <ul>
+    <li><a href="https://github.com/humank/coffeeshop-ddd-quarkus">☕ Coffeeshop DDD Quarkus</a> — tactical DDD, cross-BC communication via external Aggregate Roots</li>
+    <li><a href="https://github.com/humank/build-dr-with-managed-services">🛡️ DR with Managed Services</a> — multi-region DR with API Gateway private integration, VPCLink, Route 53</li>
+    <li><a href="https://github.com/humank/fargate-java-sample">🐳 Fargate Java Sample</a> — Spring on ECS/Fargate + ECR</li>
+    <li><a href="https://github.com/humank/aggregate-canvas">🎨 Aggregate Canvas</a> — EventStorming Level 3 → DDD tactical design objects</li>
+  </ul>
+</details>
+
 <!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,python,typescript,kotlin,docker,kubernetes,terraform,gradle,maven,git,github,vscode,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,java,python,typescript,kotlin,docker,kubernetes,terraform,gradle,maven,git,github,vscode,linux&perline=7" alt="Tech stack" />
 </p>
 
-<!-- ===== LOWLIGHTER METRICS - SKILL RADAR & TOPICS ===== -->
-## 📡 Architect Radar — Powered by [Lowlighter/Metrics](https://github.com/lowlighter/metrics)
+<!-- ===== METRICS (repo-hosted SVGs — updated by GitHub Action) ===== -->
+## 📡 Activity snapshot
 
-<!-- Starred Topics: shows the breadth of technologies you engage with -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/topics.svg" alt="Topics / Skill Icons" width="100%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/overview.svg" alt="GitHub overview metrics" width="100%" />
 </p>
 
-<!-- Overview + Languages side by side -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/overview.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/languages.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/languages.svg" alt="Most used languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/isocalendar.svg" alt="Contribution calendar" width="49%" />
 </p>
 
-<!-- Habits + Isometric Calendar -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/habits.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/humank/humank/master/metrics/isocalendar.svg" width="49%" />
-</p>
-
-<!-- ===== GITHUB STATS (SUPPORTING EVIDENCE) ===== -->
-## 📊 GitHub Analytics
+<!-- ===== GITHUB STATS (self-hosted; fewer flaky third parties) ===== -->
+## 📊 GitHub stats
 
 <p align="center">
   <a href="https://github.com/humank">
-    <img height="180em" src="https://github-readme-stats-five-rouge-74.vercel.app/api?username=humank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&ring_color=7aa2f7&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-five-rouge-74.vercel.app/api/top-langs/?username=humank&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-five-rouge-74.vercel.app/api?username=humank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&ring_color=7aa2f7&count_private=true" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-five-rouge-74.vercel.app/api/top-langs/?username=humank&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" alt="Top languages" />
   </a>
 </p>
 
-<!-- ===== PROFILE SUMMARY CARDS ===== -->
-<p align="center">
-  <a href="https://github.com/humank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=humank&theme=tokyonight" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/humank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humank&theme=tokyonight" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humank&theme=tokyonight" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=humank&theme=tokyonight&utcOffset=8" width="32%" />
-  </a>
-</p>
-
-<!-- ===== STREAK STATS ===== -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humank&theme=tokyonight&hide_border=true&background=1a1b27&stroke=414868&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" width="60%" />
-</p>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humank&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=ff9e64&area=true&area_color=7aa2f7" width="100%" />
-</p>
-
-<!-- ===== TROPHY ===== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=humank&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</p>
-
-<!-- ===== SNAKE ANIMATION ===== -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humank/humank/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/humank/humank/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/humank/humank/output/github-snake-dark.svg" width="100%" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/humank/humank/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
 <!-- ===== CONNECT ===== -->
-## 🤝 Connect with Me
+## 🤝 Connect
+
+Want Event Storming, modernization advisory, or a continuous-architecture workshop?  
+→ **[kimkao.dev/consulting](https://kimkao.dev/consulting)**
 
 <p align="center">
-  <a href="https://kimkao.dev/"><img src="https://img.shields.io/badge/Website-kimkao.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="https://github.com/humank"><img src="https://img.shields.io/badge/GitHub-humank-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kimkao/"><img src="https://img.shields.io/badge/LinkedIn-Kim%20Kao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kimkao.dev/"><img src="https://img.shields.io/badge/Website-kimkao.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Website" /></a>
+  <a href="https://github.com/humank"><img src="https://img.shields.io/badge/GitHub-humank-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kimkao/"><img src="https://img.shields.io/badge/LinkedIn-Kim%20Kao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://speakerdeck.com/humank"><img src="https://img.shields.io/badge/Speaker_Deck-humank-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
 </p>
 
-<!-- ===== VISITOR COUNTER ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=humank&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=humank&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=120&section=footer" width="100%" alt="" />
 </p>
