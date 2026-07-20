@@ -16,6 +16,8 @@
   <a href="https://kimkao.dev/">kimkao.dev</a>
 </p>
 
+<p align="center"><em>Best for leaders who need modernization, Event Storming facilitation, or architecture decisions that survive the engine room — not slideware.</em></p>
+
 <p align="center">
   <a href="https://kimkao.dev/">
     <img src="https://img.shields.io/badge/🌐_kimkao.dev-Continuous_Architecture-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="kimkao.dev" />
@@ -24,6 +26,7 @@
     <img src="https://img.shields.io/badge/Work_with_me-Workshops_&_Advisory-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Consulting" />
   </a>
 </p>
+
 
 <!-- ===== ABOUT ME ===== -->
 ## 🏗️ About Me
@@ -187,13 +190,18 @@ Essays, talks, and workshops on making architecture a continuous practice — fr
   <tr>
     <td>
       <h3>🚢 Project Noah — Agent orchestration for legacy modernization <code>private</code></h3>
-      <p>Enterprise platform that automates COBOL → Java/DDD with generative AI. Nine specialized agents across three squads, eight-phase pipeline from Domain Storytelling extraction to canary deploy. Architecture story told through talks &amp; workshops; implementation stays private.</p>
+      <p>Enterprise platform that automates COBOL → Java/DDD with generative AI. Nine specialized agents across three squads, eight-phase pipeline from Domain Storytelling extraction to canary deploy. Code stays private; the problem framing is public:</p>
+      <p>
+        🎤 <a href="https://youtu.be/td_vdQgeVwY">They Knew the Answer Before They Understood the Problem</a> · VirtualDDD<br/>
+        📊 <a href="https://speakerdeck.com/humank/enhancing-application-modernization-experience-with-aidlc">Enhancing Application Modernization with AIDLC</a> · AWS Community Day Taiwan
+      </p>
       <p>
         <code>Bedrock</code> <code>AgentCore</code> <code>Tree-sitter AST</code> <code>9 agents</code> <code>CDK</code> <code>ECS Fargate</code>
       </p>
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -267,15 +275,19 @@ Essays, talks, and workshops on making architecture a continuous practice — fr
 <!-- ===== CONNECT ===== -->
 ## 🤝 Connect
 
-Want Event Storming, modernization advisory, or a continuous-architecture workshop?  
+**Who I work with:** product &amp; engineering leaders facing legacy modernization, cloud-native redesign, or messy domain boundaries — and who want facilitation (Event Storming / Domain Storytelling) before picking a stack.
+
+**How:** advisory + workshops from strategy framing down to the design that ships.  
 → **[kimkao.dev/consulting](https://kimkao.dev/consulting)**
 
 <p align="center">
   <a href="https://kimkao.dev/"><img src="https://img.shields.io/badge/Website-kimkao.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Website" /></a>
   <a href="https://github.com/humank"><img src="https://img.shields.io/badge/GitHub-humank-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/kimkao/"><img src="https://img.shields.io/badge/LinkedIn-Kim%20Kao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/yikaikao"><img src="https://img.shields.io/badge/X-@yikaikao-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://speakerdeck.com/humank"><img src="https://img.shields.io/badge/Speaker_Deck-humank-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" alt="Speaker Deck" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=humank&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
