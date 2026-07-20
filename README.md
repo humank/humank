@@ -1,12 +1,19 @@
 <!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=220&section=header&text=Kim%20Kao%20%7C%20SA%20Manager%20%40%20AWS&fontSize=36&fontColor=a9b1d6&fontAlignY=35&desc=Solutions%20Architecture%20%C2%B7%20DDD%20Practitioner%20%C2%B7%20Cloud-Native&descSize=16&descColor=7aa2f7&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=220&section=header&text=Kim%20Kao%20%7C%20SA%20Manager%20%40%20AWS&fontSize=36&fontColor=a9b1d6&fontAlignY=35&desc=Continuous%20Architecture%20%C2%B7%20DDD%20%C2%B7%20Cloud-Native&descSize=16&descColor=7aa2f7&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <!-- ===== TYPING SVG ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=620&lines=Riding+the+Architect+Elevator+%F0%9F%9B%97;Penthouse+%E2%86%94+Engine+Room;DDD+%7C+Event+Storming+%7C+CQRS;Rozanski+%26+Woods+%7C+Viewpoints+%26+Perspectives;AWS+Cloud+Architecture+%7C+Multi-Region;Baseball+%E2%9A%BE+%2B+Software+%3D+Life" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=620&lines=Riding+the+Architect+Elevator+%F0%9F%9B%97;Architecture+is+a+continuous+activity;Penthouse+%E2%86%94+Engine+Room;DDD+%7C+Event+Storming+%7C+CQRS;Writing+at+kimkao.dev;AWS+Cloud+Architecture+%7C+Multi-Region;Baseball+%E2%9A%BE+%2B+Software+%3D+Life" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ===== WEBSITE CTA ===== -->
+<p align="center">
+  <a href="https://kimkao.dev/">
+    <img src="https://img.shields.io/badge/🌐_kimkao.dev-Continuous_Architecture-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="kimkao.dev" />
   </a>
 </p>
 
@@ -16,12 +23,15 @@
 ```yaml
 name: Kim Kao (humank)
 role: Manager, Solutions Architecture @ AWS
+website: https://kimkao.dev
 identity:
   - Leading SA teams to help customers architect on AWS
   - Hands-on DDD Practitioner & Workshop Facilitator
   - Architect Elevator rider — from Penthouse to Engine Room
+  - Writing on Continuous Architecture at kimkao.dev
 industries: [ Financial Services, Retail, Public Sector ]
 focus:
+  - Continuous Architecture (socio-technical)
   - Domain-Driven Design on Cloud (AWS)
   - Event Storming & Event-Driven Architecture
   - CQRS / Event Sourcing Patterns
@@ -34,7 +44,7 @@ community:
 passion:
   - Bridging business strategy with technical execution
   - Baseball & Softball ⚾
-motto: "Ride the Architect Elevator — model the domain, not the database."
+motto: "The best architecture decisions are business decisions."
 ```
 
 <!-- ===== ARCHITECT ELEVATOR ===== -->
@@ -117,6 +127,44 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
     </td>
   </tr>
 </table>
+
+<!-- ===== CONTINUOUS ARCHITECTURE / WEBSITE ===== -->
+## ✍️ Continuous Architecture — [kimkao.dev](https://kimkao.dev)
+
+> Architecture is a *continuous, socio-technical* activity — not a one-off decision.
+
+Essays, talks, and workshops on Domain-Driven Design, Event Storming, and riding the Architect Elevator from the C-suite to the engine room.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📝 Latest Writing</h3>
+      <p>
+        <a href="https://kimkao.dev/writing/compared-to-what"><strong>Compared to What?</strong></a><br/>
+        A retail client, a Kubernetes prescription, and a 20-year-old system — the real work is understanding the problem they had already skipped past.
+      </p>
+      <p>
+        <a href="https://kimkao.dev/writing/welcome-continuous-architecture"><strong>Architecture Is a Verb</strong></a><br/>
+        Why architecture is a continuous, socio-technical activity — and what the blog is about.
+      </p>
+      <p><a href="https://kimkao.dev/writing">View all writing →</a></p>
+    </td>
+    <td width="50%">
+      <h3>🎤 Speaking & Interviews</h3>
+      <p>
+        <a href="https://youtu.be/td_vdQgeVwY">They Knew the Answer Before They Understood the Problem</a> · VirtualDDD<br/>
+        <a href="https://speakerdeck.com/humank/enhancing-application-modernization-experience-with-aidlc">Enhancing Application Modernization with AIDLC</a> · AWS Community Day Taiwan<br/>
+        <a href="https://www.youtube.com/watch?v=pfAlmkzyaJQ">Implementing Distributed Design Patterns on AWS</a> · re:Invent BOA309<br/>
+        <a href="https://speakerdeck.com/humank/continuous-architecture-embracing-multiple-viewpoints-for-sustainable-solutions">Continuous Architecture: Multiple Viewpoints</a> · DDD Taiwan
+      </p>
+      <p><a href="https://kimkao.dev/speaking">All talks →</a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://kimkao.dev/consulting"><img src="https://img.shields.io/badge/Work_with_me-DDD_·_Event_Storming_·_Continuous_Architecture-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Consulting" /></a>
+</p>
 
 <!-- ===== FEATURED PROJECTS ===== -->
 ## 🚀 Featured Projects
@@ -284,6 +332,7 @@ motto: "Ride the Architect Elevator — model the domain, not the database."
 ## 🤝 Connect with Me
 
 <p align="center">
+  <a href="https://kimkao.dev/"><img src="https://img.shields.io/badge/Website-kimkao.dev-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" /></a>
   <a href="https://github.com/humank"><img src="https://img.shields.io/badge/GitHub-humank-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kimkao/"><img src="https://img.shields.io/badge/LinkedIn-Kim%20Kao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
